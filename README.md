@@ -9,9 +9,6 @@ We created all charts, animations, and custom widgets ourselves, using component
 
 We approached Vizier like we would any other commercial project, so it shows the standards our mobile team follows. Now that it’s public, you can see for yourself the quality of work we deliver at Merixstudio.
 
-## Charts
-Due to the great interest in the graphs component, we created a separate public library. Vizier uses parts of it, but the entire implementation is in the library. 
-[Check it here!](https://pub.dev/packages/mrx_charts)
 
 ## Features
 - Smooth, beautiful animations
